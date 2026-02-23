@@ -1,0 +1,10 @@
+{
+  "name": "solidity-flash-loan-arbitrage",
+  "version": "1.0.0",
+  "description": "Flash Loan Arbitrage via Aave and Uniswap",
+  "dependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@uniswap/v3-periphery": "^1.4.3"
+  }
+}
